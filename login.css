@@ -1,0 +1,51 @@
+
+*{
+    /* background-color: black; */
+    color: black;
+}
+.card{
+    height:500px;
+    width:500px;
+    border:2px solid red;
+    margin: auto;
+    border-radius: 25px;
+    /* background-color: pink; */
+    background-image: url(Panda.webp);
+    
+}
+.card-header{
+    text-align: center;
+}
+.card-body{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+}
+.input-style{
+    width: 100%;
+    border-radius: 20px;
+    height: 25px;
+}
+
+.label{
+    margin-top: 25px;
+    border-radius: 20px;
+}
+.button{
+    background-color:pink;
+    margin-top: 25px;
+    border-radius: 25px;
+    text-align: end;
+    height: 35px;
+    width: 50px;
+
+}
+
+.btn{
+    text-align: end;
+    height: 25px;
+}
+.para{
+    
+    margin-top: 70px;
+}
